@@ -22,24 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Associate Professor
+    company: Maynooth University
+    company_url: 'https://www.maynoothuniversity.ie/'
+    location: Maynooth, Co. Kildare, Ireland
+    date_start: '2020-08-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: 
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Lecturer
+    company: Maynooth University
+    company_url: 'https://www.maynoothuniversity.ie/'
+    location: Maynooth, Co. Kildare, Ireland
+    date_start: '2017-11-01'
+    date_end: '2020-07-31'
+    description: 
+    
+  - title: RAPID Senior Research Scientist
+    company: National Oceanography Centre
+    company_url: 'http://www.rapid.ac.uk/'
+    location: Southampton, UK
+    date_start: '2012-04-01'
+    date_end: '2016-10-31'
+    description: 
+    
+  - title: RAPID Research Scientist
+    company: National Oceanography Centre
+    company_url: 'http://www.rapid.ac.uk/'
+    location: Southampton, UK
+    date_start: '2011-02-01'
+    date_end: '2012-04-01'
+    description: 
 ---
